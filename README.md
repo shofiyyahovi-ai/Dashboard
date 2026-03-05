@@ -6,7 +6,6 @@ Financial tracking app for Gen Z.
 
 Tools:
 - Figma
-- Canva
 
 Role:
 - UI/UX Designer
